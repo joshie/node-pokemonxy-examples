@@ -1,0 +1,26 @@
+{
+  "name" : "pokemonxy-examples",
+  "version" : "0.0.1",
+  "description" : "examples on using the pokemonxy library",
+  "main" : "./unencrypt.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/joshie/node-pokemonxy-examples.git"
+  },
+  "keywords": [
+    "pokemonxy",
+    "pokemon"
+  ],
+  "author" : {
+    "name" : "Josh Lohrman",
+    "email" : "joshlohrman@gmail.com",
+    "url" : "https://github.com/joshie/node-pokemonxy-examples"
+  },
+  "dependencies" : {
+    "pokemonxy" : ">=0.0.5"
+  },
+  "license" : "MIT",
+  "engine" : {
+    "node" : ">=0.2.0"
+  }
+}
